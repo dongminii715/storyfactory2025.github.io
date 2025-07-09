@@ -2,73 +2,25 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>우리 영상 홈페이지</title>
+  <title>연결됨</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- 3초 후 유튜브로 이동 -->
+  <meta http-equiv="refresh" content="3;url=https://www.youtube.com/watch?v=동영상ID">
   <style>
     body {
-      margin: 0;
-      padding: 0;
-      background-color: #1a1a1a;
+      background-color: #121212;
+      color: #ffffff;
       font-family: 'Arial', sans-serif;
-      color: white;
-      text-align: center;
-    }
-
-    header {
-      background-color: #000;
-      padding: 20px 0;
-      font-size: 24px;
-      font-weight: bold;
-    }
-
-    main {
-      padding: 60px 20px;
-    }
-
-    .video-container {
-      margin: 30px auto;
-      max-width: 1000px;
-    }
-
-    footer {
-      margin-top: 60px;
-      padding: 20px;
-      background-color: #000;
-      font-size: 14px;
-      color: #aaa;
-    }
-
-    .video-placeholder {
-      width: 100%;
-      height: 600px;
-      background-color: #333;
       display: flex;
-      align-items: center;
       justify-content: center;
-      font-size: 24px;
-      color: #888;
-      border: 4px solid #555;
-      border-radius: 10px;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-size: 2rem;
     }
   </style>
 </head>
 <body>
-  <header>
-    역사 키링 프로젝트
-  </header>
-
-  <main>
-    <h1>영상</h1>
-    <div class="video-container">
-      <div class="video-placeholder">
-         여기에 영상이 들어갈 예정입니다
-      </div>
-    </div>
-
-    <p>우리는 역사를 새롭게 보여주는 영상을 제작 중입니다.
-  </main>
-
-  <footer>
-    ⓒ 2025 우리 팀.
-  </footer>
+  연결되었습니다.
 </body>
 </html>
