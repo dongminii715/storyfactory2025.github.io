@@ -5,7 +5,7 @@
   <title>연결됨</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- 3초 후 유튜브로 이동 -->
-  <meta http-equiv="refresh" content="3;url=[https://www.youtube.com/watch?v=동영상ID](https://www.youtube.com/watch?v=uz6x6aH-zAE)">
+  <meta http-equiv="refresh" content="3;url=https://www.youtube.com/watch?v=uz6x6aH-zAE">
   <style>
     body {
       background-color: #121212;
